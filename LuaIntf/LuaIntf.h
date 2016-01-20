@@ -27,6 +27,9 @@
 #ifndef LUAINTF_H
 #define LUAINTF_H
 
+#define LUAINTF_LINK_LUA_COMPILED_IN_CXX 0
+#define LUAINTF_HEADERS_ONLY 0
+
 //---------------------------------------------------------------------------
 
 #include "LuaContext.h"
